@@ -7,6 +7,9 @@ https://www.youtube.com/@LivingTheLogic/playlists
 
 .Net:
 -----
+Microsoft .NET (Living The Logic): https://www.youtube.com/watch?v=YBhKnYvHzNU&list=PLM5CO2uvVzLJsuP_M71qgnSLJPVbde_79
+
+
 
 
 Angular:
