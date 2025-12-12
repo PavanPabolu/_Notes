@@ -27,6 +27,12 @@ Azure:
 
 
 
+Office-Excel:
+------------
+https://www.youtube.com/watch?v=rPMPEAZ6PBY&list=PLM5CO2uvVzLLvi7rbOq0wSD50iRryA8nE
+
+
+
 Python:
 ------
 Python tutorial for beginners: https://www.youtube.com/watch?v=Sg4GMVMdOPo&list=PLZPZq0r_RZOOkUQbat8LyQii36cJf2SWT
