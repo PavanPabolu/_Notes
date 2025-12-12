@@ -4,5 +4,9 @@ https://www.linkedin.com/posts/sandeeppal_50-scenario-based-net-full-stack-inter
 
 
 
+Azure:
+------
+https://www.c-sharpcorner.com/article/using-c-sharp-with-azure-blob-storage-practical-examples-with-the-azure-sdk-for-net/
+https://github.com/PavanPabolu/storage-blob-dotnet-getting-started
 
 
